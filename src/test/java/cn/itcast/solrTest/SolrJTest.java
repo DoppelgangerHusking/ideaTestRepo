@@ -1,5 +1,5 @@
 package cn.itcast.solrTest;
-
+//大马猴,套你猴子,臭傻逼,操你妈
 import cn.itcast.solrj.pojo.Item;
 import cn.itcast.solrj.pojo.Item2;
 import org.apache.solr.client.solrj.SolrQuery;
