@@ -15,6 +15,10 @@ import java.io.IOException;
 import java.util.List;
 
 public class SolrJTest {
+    @Test
+    public void testGit(){
+        System.out.println("你爹死了,傻逼,垃圾");
+    }
 
     //连接solr服务器
     HttpSolrServer server = new HttpSolrServer("http://localhost:8080/solr/core2");
