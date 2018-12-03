@@ -15,6 +15,7 @@ import java.io.IOException;
 import java.util.List;
 
 public class SolrJTest {
+
     //连接solr服务器
     HttpSolrServer server = new HttpSolrServer("http://localhost:8080/solr/core2");
     @Test
